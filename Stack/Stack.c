@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define STACK_SIZE    10u
 #define EMPTY_STACK 0u
  typedef  float StackEntry ;
  
